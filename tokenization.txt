@@ -1,0 +1,12 @@
+whole main ( )                                                                                                                                                                               
+{ 
+    whole _i_ = 0;                                                                                                                                                           
+    until(_i_< 5)                                                                                                                                                                                     
+    {                                                                                                                                                                                                                           
+        whole _i_ = 102;                                                                                                                                                                                                   
+        printf( "the value of i " , _i_ ) ;                                                                                                                                                                                      
+        _i_++ ;    
+    }                                                                                                                                                                              
+    return 0;                                                                                                                                                                                                         
+}                                                                                                                                                                                                                                                          
+main ()
